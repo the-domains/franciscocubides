@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FranciscoCubides]]></title>
+        <description><![CDATA[FranciscoCubides]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 16:08:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ISI Pocket Watch]]></title>
+            <description><![CDATA[<article><h1>ISI Pocket Watch</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29d2780556a77138d21dca7fccd0c0cece2e4368.jpg"></article>]]></description>
+            <link>undefinedisi-pocket-watch/index.html</link>
+            <guid isPermaLink="false">8f382ee3-2f16-4634-bca3-be28bb03e60b</guid>
+            <pubDate>Fri, 11 Mar 2016 16:08:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
