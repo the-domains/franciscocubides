@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T16:12:15.015Z'
-dateModified: '2016-03-11T16:11:08.071Z'
+datePublished: '2016-03-11T16:29:33.916Z'
+dateModified: '2016-03-11T16:12:25.161Z'
 title: ISI Pocket Watch
 author: []
 sourcePath: _posts/2016-03-11-isi-pocket-watch.md
