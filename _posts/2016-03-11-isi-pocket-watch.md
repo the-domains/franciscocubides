@@ -1,12 +1,13 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T22:57:33.251Z'
-dateModified: '2016-05-21T22:55:42.339Z'
+datePublished: '2016-05-21T23:30:41.894Z'
+dateModified: '2016-05-21T23:12:28.997Z'
 title: ISI Pocket Watch
 author:
   - name: ''
@@ -15,8 +16,7 @@ sourcePath: _posts/2016-03-11-isi-pocket-watch.md
 authors: []
 publisher: null
 starred: false
-url: isi-pocket-watch/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # ISI Pocket Watch
