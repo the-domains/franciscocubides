@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T02:01:56.445Z'
-dateModified: '2016-05-22T02:01:53.419Z'
+datePublished: '2016-05-22T02:02:39.472Z'
+dateModified: '2016-05-22T02:02:06.254Z'
 title: HELLO WORLD
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-21-hello-world.md
 authors: []
 publisher: null
