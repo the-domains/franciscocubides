@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T00:21:58.985Z'
-dateModified: '2016-05-22T00:21:44.537Z'
+datePublished: '2016-05-22T00:25:54.313Z'
+dateModified: '2016-05-22T00:22:06.777Z'
 title: PORTAFOLIO
 author: []
+sourcePath: _posts/2016-05-22-portafolio.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-portafolio.md
 url: portafolio/index.html
 _type: Article
 
