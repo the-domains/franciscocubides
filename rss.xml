@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TEST DE CONSTRUCCION]]></title>
-        <description><![CDATA[TEST DE CONSTRUCCION]]></description>
+        <title><![CDATA[PORTFOLIO]]></title>
+        <description><![CDATA[PORTFOLIO]]></description>
         <link>https://thegrid.ai/franciscocubides/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 19:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 19:49:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/franciscocubides/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post details title #4]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc70cec-41eb-4f61-9e4f-d3c37e191e56.jpg">]]></description>
+            <link>https://thegrid.ai/franciscocubides/post-details-title-4/index.html</link>
+            <guid isPermaLink="false">b2e95370-03d8-4753-81ad-70b33161471f</guid>
+            <pubDate>Mon, 23 May 2016 19:49:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post Title Proyecto #3]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0be4a045-abb0-4d4a-acfc-ac6ec2429f96.jpg" alt="" title="">]]></description>
