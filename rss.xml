@@ -4,8 +4,15 @@
         <description><![CDATA[PORTFOLIO]]></description>
         <link>https://thegrid.ai/franciscocubides/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 20:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 20:09:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/franciscocubides/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test post #1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea265815-846e-4e10-b0de-6283cf8e1fff.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/franciscocubides/test-post-1/index.html</link>
+            <guid isPermaLink="false">6af0211f-2b38-443c-9428-c78f30e91eba</guid>
+            <pubDate>Mon, 23 May 2016 20:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/773f8897-2bfb-4117-a316-de49d95f0c10.jpg" alt="" title="" />]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/franciscocubides/title-proyecto-2/index.html</link>
             <guid isPermaLink="false">f95791b4-8748-4f8c-aded-03f95983f561</guid>
             <pubDate>Mon, 23 May 2016 19:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[test post #1]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea265815-846e-4e10-b0de-6283cf8e1fff.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/franciscocubides/test-post-1/index.html</link>
-            <guid isPermaLink="false">6af0211f-2b38-443c-9428-c78f30e91eba</guid>
-            <pubDate>Mon, 23 May 2016 19:33:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
