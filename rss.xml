@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[FranciscoCubides]]></title>
         <description><![CDATA[FranciscoCubides]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/franciscocubides/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 00:21:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 00:21:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/franciscocubides/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Poster Digital]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb39204b-36d0-4e8b-b400-85ce068b1c76.jpg">]]></description>
+            <link>https://thegrid.ai/franciscocubides/poster-digital/index.html</link>
+            <guid isPermaLink="false">f69f270b-458d-4ecc-9b1d-07eab7798d3c</guid>
+            <pubDate>Tue, 24 May 2016 00:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gabinete de Juegos]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd4ff006-670a-4147-809b-f6910c82d945.jpg">]]></description>
+            <link>https://thegrid.ai/franciscocubides/gabinete-de-juegos/index.html</link>
+            <guid isPermaLink="false">8b0cb4ac-8271-4542-a864-a740767bb696</guid>
+            <pubDate>Tue, 24 May 2016 00:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bicicleta Plegable]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed4f8e67-352f-46cc-9b75-26ae7bfb36df.jpg">]]></description>
-            <link>undefinedbicicleta-plegable/index.html</link>
+            <link>https://thegrid.ai/franciscocubides/bicicleta-plegable/index.html</link>
             <guid isPermaLink="false">970710fe-3c57-4b5e-a386-a60e7af94719</guid>
             <pubDate>Tue, 24 May 2016 00:20:59 GMT</pubDate>
         </item>
