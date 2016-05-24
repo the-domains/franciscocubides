@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Marksman Design Award 2003-2004 'Time'. 3er premio ISI Pocket Watch."
-datePublished: '2016-05-24T03:47:26.003Z'
-dateModified: '2016-05-24T03:47:22.938Z'
+datePublished: '2016-05-24T15:29:44.605Z'
+dateModified: '2016-05-24T03:47:42.232Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-isi-pocket-watch.md
