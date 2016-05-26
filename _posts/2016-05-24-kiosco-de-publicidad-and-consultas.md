@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T03:05:58.570Z'
-dateModified: '2016-05-24T02:59:35.372Z'
-title: ''
-author: []
+datePublished: '2016-05-26T18:16:03.434Z'
+dateModified: '2016-05-26T18:16:02.837Z'
+title: Terminal de interactiva de Consultas
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-24-kiosco-de-publicidad-and-consultas.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-05-24-kiosco-de-publicidad-and-consultas.md
-starred: false
+starred: true
 url: kiosco-de-publicidad-and-consultas/index.html
 _type: Article
 
