@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T03:06:26.127Z'
-dateModified: '2016-05-24T02:59:50.095Z'
+datePublished: '2016-05-26T18:14:46.397Z'
+dateModified: '2016-05-26T18:14:45.731Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-24-gabinete-de-juegos.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-05-24-gabinete-de-juegos.md
-starred: false
+starred: true
 url: gabinete-de-juegos/index.html
 _type: Article
 
