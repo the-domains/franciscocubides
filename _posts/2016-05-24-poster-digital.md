@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T18:15:10.401Z'
-dateModified: '2016-05-26T18:13:26.124Z'
-title: ''
-author: []
+datePublished: '2016-05-26T23:02:30.522Z'
+dateModified: '2016-05-26T18:15:21.894Z'
+title: Poster Digital
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-24-poster-digital.md
 authors: []
 publisher: null
