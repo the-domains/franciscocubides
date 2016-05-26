@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T03:06:13.603Z'
-dateModified: '2016-05-24T02:59:44.432Z'
+datePublished: '2016-05-26T18:15:10.401Z'
+dateModified: '2016-05-26T18:13:26.124Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-24-poster-digital.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-05-24-poster-digital.md
-starred: false
+starred: true
 url: poster-digital/index.html
 _type: Article
 
