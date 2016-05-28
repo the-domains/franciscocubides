@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T23:02:30.522Z'
-dateModified: '2016-05-26T18:15:21.894Z'
+datePublished: '2016-05-28T17:04:20.752Z'
+dateModified: '2016-05-28T17:03:06.404Z'
 title: Poster Digital
 author:
   - name: ''
